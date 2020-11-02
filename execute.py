@@ -7,5 +7,5 @@ i = 0
 
 while( i< 5):
     i+=1
-    time.sleep(200)
+    time.sleep(5)
     print("looping")
